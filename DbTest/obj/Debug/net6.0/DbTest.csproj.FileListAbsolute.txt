@@ -1,0 +1,17 @@
+D:\ProjectC\C#\DbTest\DbTest\bin\Debug\net6.0\DbTest.exe
+D:\ProjectC\C#\DbTest\DbTest\bin\Debug\net6.0\DbTest.deps.json
+D:\ProjectC\C#\DbTest\DbTest\bin\Debug\net6.0\DbTest.runtimeconfig.json
+D:\ProjectC\C#\DbTest\DbTest\bin\Debug\net6.0\DbTest.dll
+D:\ProjectC\C#\DbTest\DbTest\bin\Debug\net6.0\DbTest.pdb
+D:\ProjectC\C#\DbTest\DbTest\bin\Debug\net6.0\MySqlConnector.dll
+D:\ProjectC\C#\DbTest\DbTest\obj\Debug\net6.0\DbTest.csproj.AssemblyReference.cache
+D:\ProjectC\C#\DbTest\DbTest\obj\Debug\net6.0\DbTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectC\C#\DbTest\DbTest\obj\Debug\net6.0\DbTest.AssemblyInfoInputs.cache
+D:\ProjectC\C#\DbTest\DbTest\obj\Debug\net6.0\DbTest.AssemblyInfo.cs
+D:\ProjectC\C#\DbTest\DbTest\obj\Debug\net6.0\DbTest.csproj.CoreCompileInputs.cache
+D:\ProjectC\C#\DbTest\DbTest\obj\Debug\net6.0\DbTest.csproj.CopyComplete
+D:\ProjectC\C#\DbTest\DbTest\obj\Debug\net6.0\DbTest.dll
+D:\ProjectC\C#\DbTest\DbTest\obj\Debug\net6.0\refint\DbTest.dll
+D:\ProjectC\C#\DbTest\DbTest\obj\Debug\net6.0\DbTest.pdb
+D:\ProjectC\C#\DbTest\DbTest\obj\Debug\net6.0\DbTest.genruntimeconfig.cache
+D:\ProjectC\C#\DbTest\DbTest\obj\Debug\net6.0\ref\DbTest.dll
